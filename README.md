@@ -59,6 +59,4 @@ I’m interested in all things related to **software development** and **data sc
 
 ![Aymen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aymennnb&show_icons=true&theme=radical&count_private=true)
 
-![Aymen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aymennnb&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymennnb&layout=compact&theme=radical)
