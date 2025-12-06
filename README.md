@@ -4,9 +4,9 @@
 I’m passionate about **software development**, **modern technologies**, and **data science**.  
 🌐 You can learn more about me and my projects on my [Portfolio](https://aymen-nabaoui-portfolio.vercel.app).  
 
-- 📚 Currently learning **Spring Boot** and **Angular**  
-- 🎯 Looking to deepen my knowledge in **development** and **data science**  
-- 🌍 Languages: 🇫🇷 French | 🇬🇧 English | 🇩🇪 German | 🇲🇦 Arabic  
+- 📚 Currently learning Cybersecurity 
+- 🎯 Looking to deepen my knowledge in **development** and **Cybersecurity**  
+- 🌍 Languages: 🇫🇷 French | 🇬🇧 English | 🇲🇦 Arabic  
 - 🌍 Open to opportunities abroad to **take my career to the next level**  
 - 📫 Reach me at: [aymen.nabaoui.dev@gmail.com](mailto:aymen.nabaoui.dev@gmail.com) | [LinkedIn – Aymen Nabaoui](https://www.linkedin.com/in/aymen-nabaoui)  
 
@@ -18,7 +18,6 @@ I’m passionate about **software development**, **modern technologies**, and **
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
