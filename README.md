@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 🎓 I’m Aymen Nabaoui, a recent graduate in Web Development.  
-I’m passionate about **software development**, **modern technologies**, and **data science**.  
+I’m passionate about **software development**, **modern technologies**, and **Cybersecurity**.  
 🌐 You can learn more about me and my projects on my [Portfolio](https://aymen-nabaoui-portfolio.vercel.app).  
 
 - 📚 Currently learning Cybersecurity 
-- 🎯 Looking to deepen my knowledge in **development** and **Cybersecurity**  
+- 🎯 Looking to deepen my knowledge in **Development** and **Cybersecurity**  
 - 🌍 Languages: 🇫🇷 French | 🇬🇧 English | 🇲🇦 Arabic  
 - 🌍 Open to opportunities abroad to **take my career to the next level**  
 - 📫 Reach me at: [aymen.nabaoui.dev@gmail.com](mailto:aymen.nabaoui.dev@gmail.com) | [LinkedIn – Aymen Nabaoui](https://www.linkedin.com/in/aymen-nabaoui)  
