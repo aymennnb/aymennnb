@@ -2,7 +2,6 @@
 
 🎓 I’m Aymen Nabaoui, a recent graduate in Web Development.  
 I’m passionate about **software development**, **modern technologies**, and **Cybersecurity**.  
-🌐 You can learn more about me and my projects on my [Portfolio](https://aymen-nabaoui-portfolio.vercel.app).  
 
 - 📚 Currently learning Cybersecurity 
 - 🎯 Looking to deepen my knowledge in **Development** and **Cybersecurity**  
