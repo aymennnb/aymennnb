@@ -5,8 +5,6 @@ I’m passionate about **software development**, **modern technologies**, and **
 
 - 📚 Currently learning Cybersecurity 
 - 🎯 Looking to deepen my knowledge in **Development** and **Cybersecurity**  
-- 🌍 Languages: 🇫🇷 French | 🇬🇧 English | 🇲🇦 Arabic  
-- 🌍 Open to opportunities abroad to **take my career to the next level**  
 - 📫 Reach me at: [aymen.nabaoui.dev@gmail.com](mailto:aymen.nabaoui.dev@gmail.com) | [LinkedIn – Aymen Nabaoui](https://www.linkedin.com/in/aymen-nabaoui)  
 
 ---
